@@ -12,6 +12,9 @@
       ]
       }
 ],
+  "requirements": [
+    "copper/90"
+  ],
   "category": "units",
   "research": "dagger"
 }
