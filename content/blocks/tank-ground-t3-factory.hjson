@@ -1,6 +1,6 @@
 {
     "type": "Reconstructor",
-    "name": "Basic Reassembly Chamber",
+    "name": "Tank Ground Tier 3 Factory",
     "description": "Upgrades units created in the Basic Factory to the next tier. Units produced by this Reassembly Chamber may be further upgraded.",
     "health": 2990,
     "size": 7,
