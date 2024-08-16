@@ -2,7 +2,7 @@
   "type": "tank",
   "name": "Trptankero",
   "description": "Fires standard bullets at enemy structures. Less effective against units.",
-  "health": 500,
+  "health": 2000,
   "armor": 3,
   "squareShape": true,
   "treadPullOffset": 8,
@@ -23,7 +23,7 @@
   "weapons": [
     {
       "x": 0,
-      "name": "tankero-weapon",
+      "name": "trptankero-weapon",
       "y": -1,
       "reload": 18,
       "mirror": false,
@@ -38,7 +38,7 @@
         "height": 10,
         "speed": 3,
         "lifetime": 40,
-        "damage": 8,
+        "damage": 100,
         "pierce": false,
         "buildingDamageMultiplier": 2.8
       }
