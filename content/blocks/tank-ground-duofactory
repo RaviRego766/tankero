@@ -13,9 +13,7 @@
         "items": {
             "items": [
               "silicon/300",
-              "graphite/120", 
-              "titanium/180",
-              "metaglass/100"
+              "copper/100"
             ]
         }
     },
