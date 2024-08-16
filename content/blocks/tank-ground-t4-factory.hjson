@@ -3,7 +3,7 @@
     "name": "Tank Ground Tier 4 Factory",
     "description": "Upgrades units created in the Basic Factory to the tier. Units produced by this Reassembly Chamber may be further upgraded.",
     "health": 1550,
-    "size": 5,
+    "size": 9,
     "constructTime": 3600,
     "upgrades": [
         ["trptankero", "quatankero"]
