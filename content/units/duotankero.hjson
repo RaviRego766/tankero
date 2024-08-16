@@ -1,0 +1,48 @@
+{
+  "type": "tank",
+  "name": "Duotankero",
+  "description": "Fires standard bullets at enemy structures. Less effective against units.",
+  "health": 1000,
+  "armor": 3,
+  "squareShape": true,
+  "treadPullOffset": 8,
+  "treadRects": [
+    {
+      "x": 7,
+      "y": -26,
+      "width": 14,
+      "height": 51
+    }
+  ],
+  "singleTarget": true,
+  "omniMovement": false,
+  "rotateSpeed": 2,
+  "faceTarget": false,
+  "flying": false,
+  "range": 120,
+  "weapons": [
+    {
+      "x": 0,
+      "name": "tankero-weapon",
+      "y": -1,
+      "reload": 18,
+      "mirror": false,
+      "rotate": true,
+      "shoot": {
+        "shots": 2,
+        "shotDelay": 2
+      },
+      "bullet": {
+        "type": "BasicBulletType",
+        "width": 6,
+        "height": 10,
+        "speed": 3,
+        "lifetime": 40,
+        "damage": 50,
+        "pierce": false,
+        "buildingDamageMultiplier": 2.8
+      }
+    }
+  ],
+  "research": "tank-ground-duofactory"
+}
