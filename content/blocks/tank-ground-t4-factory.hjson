@@ -1,0 +1,30 @@
+{
+    "type": "Reconstructor",
+    "name": "Tank Ground Tier 4 Factory",
+    "description": "Upgrades units created in the Basic Factory to the tier. Units produced by this Reassembly Chamber may be further upgraded.",
+    "health": 1550,
+    "size": 5,
+    "constructTime": 3600,
+    "upgrades": [
+        ["trptankero", "quatankero"]
+      ]
+    "consumes": {
+        "power": 0.8,
+        "items": {
+            "items": [
+              "silicon/300",
+              "graphite/120", 
+              "titanium/180",
+              "copper/100"
+            ]
+        }
+    },
+    "requirements": [
+      "copper/1000",
+      "lead/1000",
+      "silicon/1000",
+      "titanium/1000"
+    ],
+    "category": "units",
+    "research": "tank-ground-t3-factory"
+      }
