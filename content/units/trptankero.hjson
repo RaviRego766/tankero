@@ -1,6 +1,6 @@
 {
   "type": "tank",
-  "name": "Tankero",
+  "name": "Trptankero",
   "description": "Fires standard bullets at enemy structures. Less effective against units.",
   "health": 500,
   "armor": 3,
