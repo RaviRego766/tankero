@@ -8,7 +8,7 @@ mesh: {
 
   type: NoiseMesh
 
-  planet: serpulo
+  planet: tankero
 
   seed: 0
 
