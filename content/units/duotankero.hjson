@@ -23,7 +23,7 @@
   "weapons": [
     {
       "x": 0,
-      "name": "tankero-weapon",
+      "name": "duotankero-weapon",
       "y": -1,
       "reload": 18,
       "mirror": false,
