@@ -1,0 +1,27 @@
+{
+    "type": "Reconstructor",
+    "name": "Basic Reassembly Chamber",
+    "description": "Upgrades units created in the Basic Factory to the next tier. Units produced by this Reassembly Chamber may be further upgraded.",
+    "health": 2990,
+    "size": 7,
+    "constructTime": 5000,
+    "upgrades": [
+        ["duotankero", "trptankero"]
+    ],
+    "consumes": {
+        "power": 0.8,
+        "items": {
+            "items": [
+              "silicon/300",
+              "graphite/120", 
+              "copper/200"
+            ]
+        }
+    },
+    "requirements": [
+      "copper/500"
+      "silicon/700"
+    ],
+    "category": "units",
+    "research": "tank-ground-duofactory"
+}
