@@ -2,7 +2,7 @@ localizedName: Tankero
 
 description: A barren planet where tragedy struck long ago. Nothing is left here besides destruction and death.
 
-alwaysUnlocked: true
+alwaysUnlocked: false
 
 mesh: {
 
